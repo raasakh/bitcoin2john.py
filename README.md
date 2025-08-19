@@ -1,0 +1,1 @@
+# bitcoin2john.py
