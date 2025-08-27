@@ -1,0 +1,4 @@
+D6i1YzJd5V12ZQhHuZk4QiEKTeN9dRRLxX
+
+python3 bitcoin2john.py wallet_125012DOGE.dat
+$bitcoin$64$477c2fbb850add16a893ca6e2da261a76308f56a74fa60c7d857492e56dd09e6$16$26e3663c50dd3348$26878$2$00$2$00
