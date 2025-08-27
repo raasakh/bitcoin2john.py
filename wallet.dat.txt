@@ -1,1 +1,4 @@
 15zrzE1psJJGjXyPiLkLTbiqwcjvE4hu7d
+
+python3 bitcoin2john.py wallet.dat
+$bitcoin$64$b79d2b59e3ea4e90a039aa29e7a13981ce0e452158a77fd8d92fe4b32dbf0b06$16$f8f9e047cbbc102a$54976$2$00$2$00
