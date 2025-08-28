@@ -1,4 +1,5 @@
 LcsiEUmokC3sD51HokiyEr8QzguV73B8V1
+Balance: 753 LTC
 
 python3 bitcoin2john.py wallet753ltc.dat
 $bitcoin$64$aba79aeadf4c080cd6d7c32cd2927021214770d227481c9e81f2b6db52aa5947$16$1cd3fcde64af36dd$25000$2$00$2$00
